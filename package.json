@@ -1,0 +1,19 @@
+{
+  "name": "kapacinosplash",
+  "version": "1.0.0",
+  "description": "splash page for kapacino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkCapsule/kapacinosplash.git"
+  },
+  "author": "edward chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinkCapsule/kapacinosplash/issues"
+  },
+  "homepage": "https://github.com/ThinkCapsule/kapacinosplash#readme"
+}
