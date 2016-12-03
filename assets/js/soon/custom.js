@@ -6,7 +6,7 @@ COMMING SOON PAGE
     * Set your date here  (YEAR, MONTH (0 for January/11 for December), DAY, HOUR, MINUTE, SECOND)
     * according to the GMT+0 Timezone
     **/
-    var launch = new Date(2016, 8, 14, 4, 00, 00);
+    var launch = new Date(2017, 0, 30, 4, 00, 00);
     /**
     * The script
     **/
@@ -99,7 +99,7 @@ SLIDER
 
             onHoverStop:"on",
             hideThumbs:200,
-            navigationType:"bullet",
+            navigationType:"circle",
             navigationStyle:"round",
             navigationArrows:"none",
 

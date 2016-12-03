@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 "scripts": {
   "start": "index.js"
 }
+=======
+web: node index.js
+>>>>>>> master
